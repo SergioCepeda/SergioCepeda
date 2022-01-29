@@ -1,6 +1,6 @@
 <h1 align="center">Hola 👋,soy Sergio. Un apasionado fullstack developer de Argentina</h1>
 
-
+https://github.com/SergioCepeda/SergioCepeda/issues/1#issue-1118271538
 - 🔭Actualmente estoy trabajando en un proyecto grupal **en el bootcamp soyHenry**
 
 - 🌱 Actualmente estoy aprendiendo **Typescript,React Native, java y me encantaría aprender python**
