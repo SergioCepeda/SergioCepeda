@@ -1,5 +1,5 @@
 ###
-[https://user-images.githubusercontent.com/]87606197/151679779-032072fc-ff5f-45e4-9157-642410188df9.gif)()
+[https://user-images.githubusercontent.com/87606197/151679779-032072fc-ff5f-45e4-9157-642410188df9.gif]
 <h1 align="center">Hola 👋,soy Sergio</h1>
 <h3 align="center">un apasionado fullstack de Argentina</h3>
 
