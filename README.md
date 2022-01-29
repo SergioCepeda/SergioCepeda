@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋,soy Sergio. Un apasionado fullstack developer de Argentina</h1>
-<h3 align="center">https://user-images.githubusercontent.com/87606197/151679779-032072fc-ff5f-45e4-9157-642410188df9.gif</h3>
+
 
 - 🔭Actualmente estoy trabajando en un proyecto grupal **en el bootcamp soyHenry**
 
