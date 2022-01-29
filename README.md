@@ -1,4 +1,6 @@
-### Hi there 👋<h1 align="center">Hola 👋,soy Sergio</h1>
+### Hi there 👋
+ giphy-backdrop.mp4 
+<h1 align="center">Hola 👋,soy Sergio</h1>
 <h3 align="center">un apasionado fullstack de Argentina</h3>
 
 - 🔭Actualmente estoy trabajando en un proyecto grupal **en el bootcamp soyHenry**
