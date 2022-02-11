@@ -41,8 +41,7 @@ Visita mi proyecto individual de comidas [![Alt text](https://img.youtube.com/vi
 
 
 
-Vista mi app de pelis [![Alt text](https://img.youtube.com/vi/8nA3X6-FLTY /0.jpg)](https://www.youtube.com/watch?v=8nA3X6-FLTY )
-
+Vista mi app de pelis [![Alt text](https://img.youtube.com/vi/8nA3X6-FLTY/0.jpg)](https://www.youtube.com/watch?v=8nA3X6-FLTY)
 
 
 
