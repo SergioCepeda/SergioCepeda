@@ -54,4 +54,7 @@ Visita mi app de el clima [![Alt text](https://img.youtube.com/vi/FVfaxdgkKDs/0.
 Visita mi app Clon de google [![Alt text](https://img.youtube.com/vi/IOtQXqk0RGs/0.jpg)](https://www.youtube.com/watch?v=IOtQXqk0RGs)
 
 
+ Proyecto grupal de 8 desarrolladores, participe en la parte backend [![Alt text](https://img.youtube.com/vi/BT3xOQs4zn4/0.jpg)](https://www.youtube.com/watch?v=BT3xOQs4zn4)
+
+
 
