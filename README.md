@@ -10,7 +10,7 @@
 
 
 
-- 🔭Actualmente estoy trabajando en un proyecto grupal **en el bootcamp soyHenry**
+- 🔭Actualmente estoy  en la busqueda de mi primer experiencia **en el mundo IT**
 
 - 🌱 Actualmente estoy aprendiendo **Typescript,React Native, java y me encantaría aprender python**
 
@@ -48,6 +48,10 @@ Vista mi app de pelis [![Alt text](https://img.youtube.com/vi/8nA3X6-FLTY/0.jpg)
 
 
 Visita mi app de el clima [![Alt text](https://img.youtube.com/vi/FVfaxdgkKDs/0.jpg)](https://www.youtube.com/watch?v=FVfaxdgkKDs)
+
+
+
+Visita mi app Clon de google [![Alt text](https://img.youtube.com/vi/IOtQXqk0RGs/0.jpg)](https://www.youtube.com/watch?v=IOtQXqk0RGs)
 
 
 
