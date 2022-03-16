@@ -14,7 +14,7 @@
 
 - 🌱 Actualmente estoy aprendiendo **Typescript,React Native, java y me encantaría aprender python**
 
-- 👨‍💻 Encontraras todos mis proyectos subidos aquí [https://github.com/SergioCepeda](https://github.com/SergioCepeda)
+- 👨‍💻 Encontraras todos mis proyectos subidos aquí [https://portfolio-gilt-beta-66.vercel.app/](https://portfolio-gilt-beta-66.vercel.app/)
 
 - 💬 pregúntame sobre **react, javascript, node.js, express, postgresSQL, html y react hooks css,**
 
