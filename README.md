@@ -27,7 +27,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/sergiocepeda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sergiocepeda" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sergio-cepeda-software-engineer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sergio-cepeda-software-engineer/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/sergio-cepeda-software-engineer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sergio-cepeda-dev//" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -41,28 +41,28 @@
 
 
 
-#Vista mi app de pelis [![Alt text](https://img.youtube.com/vi/8nA3X6-FLTY/0.jpg)](https://www.youtube.com/watch?v=8nA3X6-FLTY)
+Vista mi app de pelis [![Alt text](https://img.youtube.com/vi/8nA3X6-FLTY/0.jpg)](https://www.youtube.com/watch?v=8nA3X6-FLTY)
 
 
 
 
 
-#Visita mi app de el clima [![Alt text](https://img.youtube.com/vi/FVfaxdgkKDs/0.jpg)](https://www.youtube.com/watch?v=FVfaxdgkKDs)
+Visita mi app de el clima [![Alt text](https://img.youtube.com/vi/FVfaxdgkKDs/0.jpg)](https://www.youtube.com/watch?v=FVfaxdgkKDs)
 
 
 
-#Visita mi app Clon de google [![Alt text](https://img.youtube.com/vi/IOtQXqk0RGs/0.jpg)](https://www.youtube.com/watch?v=IOtQXqk0RGs)
+Visita mi app Clon de google [![Alt text](https://img.youtube.com/vi/IOtQXqk0RGs/0.jpg)](https://www.youtube.com/watch?v=IOtQXqk0RGs)
 
 
- #Proyecto grupal de 8 desarrolladores, participe en la parte backend [![Alt text](https://img.youtube.com/vi/BT3xOQs4zn4/0.jpg)](https://www.youtube.com/watch?v=BT3xOQs4zn4)
+ Proyecto grupal de 8 desarrolladores, participe en la parte backend [![Alt text](https://img.youtube.com/vi/BT3xOQs4zn4/0.jpg)](https://www.youtube.com/watch?v=BT3xOQs4zn4)
 
 
-#Web de breakin bad [![Alt text](https://img.youtube.com/vi/GgtfuaELLuU/0.jpg)](https://www.youtube.com/watch?v=GgtfuaELLuU)
+Web de breakin bad [![Alt text](https://img.youtube.com/vi/GgtfuaELLuU/0.jpg)](https://www.youtube.com/watch?v=GgtfuaELLuU)
 
 
-#visita mi app useStory  [![Alt text](https://img.youtube.com/vi/Eo3Kb4zKSu4/0.jpg)](https://www.youtube.com/watch?v=Eo3Kb4zKSu4)
+visita mi app useStory  [![Alt text](https://img.youtube.com/vi/Eo3Kb4zKSu4/0.jpg)](https://www.youtube.com/watch?v=Eo3Kb4zKSu4)
 
 
-#visita la app Spoty creada en conjunto con el  fullstack developer: https://github.com/juan7914  [![Alt text](https://img.youtube.com/vi/_lB7CwTYQtM/0.jpg)](https://www.youtube.com/watch?v=_lB7CwTYQtM)
+visita la app Spoty creada en conjunto con el  fullstack developer: https://github.com/juan7914  [![Alt text](https://img.youtube.com/vi/_lB7CwTYQtM/0.jpg)](https://www.youtube.com/watch?v=_lB7CwTYQtM)
 
 
