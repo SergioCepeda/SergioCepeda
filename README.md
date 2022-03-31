@@ -62,6 +62,6 @@ Web de breakin bad [![Alt text](https://img.youtube.com/vi/GgtfuaELLuU/0.jpg)](h
 
 visita mi app useStory  [![Alt text](https://img.youtube.com/vi/Eo3Kb4zKSu4/0.jpg)](https://www.youtube.com/watch?v=Eo3Kb4zKSu4)
 
-visita la app creada en conjunto con el sr Juan Carlos Murillo Pedroza fullstack developer [![Alt text](https://img.youtube.com/vi/_lB7CwTYQtM/0.jpg)](https://www.youtube.com/watch?v=_lB7CwTYQtM)
+visita la app Spoty creada en conjunto con el sr Juan Carlos Murillo Pedroza fullstack developer [![Alt text](https://img.youtube.com/vi/_lB7CwTYQtM/0.jpg)](https://www.youtube.com/watch?v=_lB7CwTYQtM)
 
 
