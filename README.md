@@ -65,4 +65,6 @@ visita mi app useStory  [![Alt text](https://img.youtube.com/vi/Eo3Kb4zKSu4/0.jp
 
 visita la app Spoty creada en conjunto con el  fullstack developer: https://github.com/juan7914  [![Alt text](https://img.youtube.com/vi/_lB7CwTYQtM/0.jpg)](https://www.youtube.com/watch?v=_lB7CwTYQtM)
 
+Visita mi e-commerce [![Alt text](https://img.youtube.com/vi/xaxMkaQqBm8/0.jpg)](https://www.youtube.com/watch?v=xaxMkaQqBm8)
+
 
