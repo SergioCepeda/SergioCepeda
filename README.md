@@ -68,5 +68,5 @@ visita la app Spoty creada en conjunto con el  fullstack developer: https://gith
 Visita mi e-commerce [![Alt text](https://img.youtube.com/vi/xaxMkaQqBm8/0.jpg)](https://www.youtube.com/watch?v=xaxMkaQqBm8)
 
 
-Visita la app bancaria hecha en equipo con profesionales de  no-country: https://github.com/EstefanyEH, https://github.com/LucasMontoby, https://github.com/JuanMG22 y  yo.
+Visita la app bancaria hecha en equipo con profesionales de  no-country: https://github.com/EstefanyEH, https://github.com/LucasMontoby, https://github.com/JuanMG22 y  yo  https://github.com/SergioCepeda
  [![Alt text](https://img.youtube.com/vi/RXYqR5k4AeY/0.jpg)](https://www.youtube.com/watch?v=RXYqR5k4AeY)
