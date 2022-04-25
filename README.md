@@ -69,6 +69,4 @@ Visita mi e-commerce [![Alt text](https://img.youtube.com/vi/xaxMkaQqBm8/0.jpg)]
 
 
 Visita la app bancaria hecha en equipo con profesionales de  no-country:
- [![Alt text](https://img.youtube.com/vi/RXYqR5k4AeY)](https://www.youtube.com/watch?v=RXYqR5k4AeY)
- 
-
+ [![Alt text](https://img.youtube.com/vi/RXYqR5k4AeY/0.jpg)](https://www.youtube.com/watch?v=RXYqR5k4AeY)
