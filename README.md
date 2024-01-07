@@ -10,9 +10,9 @@
 
 
 
-- 🔭Actualmente estoy  en la busqueda de mi primer experiencia **en el mundo IT**
+- 🔭Cuento con experiencia de mas de dos años **en el mundo IT**
 
-- 🌱 Actualmente estoy aprendiendo **Typescript,React Native, java y me encantaría aprender python**
+- 🌱 Actualmente estoy aprendiendo **python**
 
 - 👨‍💻 Encontraras todos mis proyectos subidos aquí [https://portfolio-gilt-beta-66.vercel.app/](https://portfolio-gilt-beta-66.vercel.app/)
 
