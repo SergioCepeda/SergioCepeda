@@ -14,7 +14,7 @@
 
 - 🌱 Actualmente estoy aprendiendo **python**
 
-- 👨‍💻 Encontraras todos mis proyectos subidos aquí [https://portfolio-gilt-beta-66.vercel.app/](https://portfolio-gilt-beta-66.vercel.app/)
+- 👨‍💻 Encontraras todos mis proyectos subidos aquí [https://portfolio-gilt-beta-66.vercel.app/](https://sergiocepeda.github.io/portreact/)
 
 - 💬 pregúntame sobre **react, javascript, node.js, express, postgresSQL, html y react hooks css,**
 
