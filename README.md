@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋,soy Sergio.🚀ingeniero en sistemas informaticos de Argentina</h1> 
+<h1 align="center">Hola 👋,soy Sergio.🚀ingeniero en sistemas informáticos de Argentina</h1> 
 
 
 
