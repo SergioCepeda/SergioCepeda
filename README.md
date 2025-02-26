@@ -10,9 +10,8 @@
 
 
 
-- 🔭Cuento con experiencia de 4 **en el mundo IT**
+- 🔭Cuento con experiencia de 4 años **en el mundo IT**
 
-- 🌱 Actualmente estoy trabajando de director de tecnologia en hitpoly
 
 - 👨‍💻 Encontraras todos mis proyectos subidos aquí [https://portfolio-gilt-beta-66.vercel.app/](https://sergiocepeda.github.io/portreact/)
 
