@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋,soy Sergio.🚀 Un apasionado fullstack developer de Argentina</h1> 
+<h1 align="center">Hola 👋,soy Sergio.🚀ingeniero en sistemas informaticos de Argentina</h1> 
 
 
 
@@ -10,19 +10,19 @@
 
 
 
-- 🔭Cuento con experiencia de mas de dos años **en el mundo IT**
+- 🔭Cuento con experiencia de 4 **en el mundo IT**
 
-- 🌱 Actualmente estoy aprendiendo **python**
+- 🌱 Actualmente estoy trabajando de director de tecnologia en hitpoly
 
 - 👨‍💻 Encontraras todos mis proyectos subidos aquí [https://portfolio-gilt-beta-66.vercel.app/](https://sergiocepeda.github.io/portreact/)
 
-- 💬 pregúntame sobre **react, javascript, node.js, express, postgresSQL, html y react hooks css,**
+- 💬 pregúntame sobre **react, javascript,java, php, python, node.js, express, postgresSQL, html y react hooks css,**
 
 - 📫 Puedes escribirme a **sergiohoraciocepeda88@gmail.com**
 
 - 📄 conoce mis experiencias aqui mismo [https://github.com/SergioCepeda](https://github.com/SergioCepeda)
 
-- ⚡ Dato curioso **soy muy creativo, dedicado, responsable y apasionado por lo que hago. También soy emprendedor y me gusta mucho el arte.**
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
