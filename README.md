@@ -13,7 +13,6 @@
 - 🔭Cuento con experiencia de 4 años **en el mundo IT**
 
 
-- 👨‍💻 Encontraras todos mis proyectos subidos aquí [https://portfolio-gilt-beta-66.vercel.app/](https://sergiocepeda.github.io/portreact/)
 
 - 💬 pregúntame sobre **react, javascript,java, php, python, node.js, express, postgresSQL, html y react hooks css,**
 
